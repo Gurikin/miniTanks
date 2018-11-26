@@ -28,7 +28,7 @@ public class TankMovement : MonoBehaviour
     {
         m_Rigidbody.isKinematic = false;
         m_MovementInputValue = 0f;
-        m_TurnInputValue = 0f;
+        m_TurnInputValue = 0f;        
     }
 
 
